@@ -1,0 +1,2 @@
+# Stronka-
+Podstawy Java Script
